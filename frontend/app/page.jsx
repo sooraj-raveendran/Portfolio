@@ -188,10 +188,10 @@ export default function Home() {
             {/* landing section content */}
             <div>
               <p className="mb-4 text-xs uppercase tracking-[0.25em] text-cyan-400 sm:text-sm sm:tracking-[0.35em] md:text-base">Full Stack Developer</p>
-              <h3 className="text-2xl font-semibold leading-tight sm:text-3xl md:text-4xl lg:text-5xl">
+              <h3 className="text-2xl text-justify font-semibold leading-tight sm:text-3xl md:text-4xl lg:text-5xl">
                 Building fast, modern web experiences with a focus on design and performance.
               </h3>
-              <p className="mt-6 max-w-2xl text-base leading-7 text-slate-300 sm:text-lg sm:leading-8">
+              <p className="mt-6 max-w-2xl text-base text-justify leading-7 text-slate-300 sm:text-lg sm:leading-8">
                 I specialize in developing responsive, user-friendly websites and applications using the latest frontend technologies. With a strong background in both design and development, I create seamless digital experiences that engage users and drive results.
               </p>
               <div className="mt-10 flex w-full flex-col gap-4 sm:flex-row sm:items-center">
